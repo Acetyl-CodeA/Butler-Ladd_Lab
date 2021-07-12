@@ -1,0 +1,18 @@
+        args = self.takeBurstPath + " " \
+            + "1 " \
+            + "0 " \
+            + "0 " \
+            + str(self.exposure) + " " \
+            + str(self.gain) + " " \
+            + '"Temporary Image Files for GUI" ' \
+            + "TESTIMAGEFORSETUP " \
+            + self.bayerEndiannessFlag + " " \
+            + str(self.blackLevel) + " " \
+            + self.RGBPatternchoice
+
+ExperimentCameraEXEver6.exe 1 0 0 100000 39 Merged TESTIMAGEFORSETUP 0 1024 RGGB
+
+
+ExperimentCameraEXEver6.exe 1 0 0 100000 39 "Temporary Image Files for GUI" TESTIMAGEFORSETUP 0 1024 RGGB
+
+ecebv6raw.exe 1 0 0 100000 39 Merged TESTIMAGEFORSETUP 0 1024 RGGB
