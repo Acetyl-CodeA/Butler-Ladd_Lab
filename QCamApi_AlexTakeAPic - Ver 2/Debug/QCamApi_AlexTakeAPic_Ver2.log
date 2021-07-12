@@ -1,0 +1,6 @@
+﻿  AlexQCamVer2.cpp
+C:\Users\CHE-LADM-maytona\source\repos\QCamApi_AlexTakeAPic - Ver 2\AlexQCamVer2.cpp(35,13): warning C4101: 'origFrame': unreferenced local variable
+C:\Users\CHE-LADM-maytona\source\repos\QCamApi_AlexTakeAPic - Ver 2\AlexQCamVer2.cpp(69,66): warning C4244: 'argument': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\CHE-LADM-maytona\source\repos\QCamApi_AlexTakeAPic - Ver 2\AlexQCamVer2.cpp(71,60): warning C4244: 'argument': conversion from 'double' to 'unsigned long', possible loss of data
+     Creating library C:\Users\CHE-LADM-maytona\source\repos\QCamApi_AlexTakeAPic - Ver 2\Debug\QCamApi_AlexTakeAPic_Ver2.lib and object C:\Users\CHE-LADM-maytona\source\repos\QCamApi_AlexTakeAPic - Ver 2\Debug\QCamApi_AlexTakeAPic_Ver2.exp
+  QCamApi_AlexTakeAPic_Ver2.vcxproj -> C:\Users\CHE-LADM-maytona\source\repos\QCamApi_AlexTakeAPic - Ver 2\Debug\QCamApi_AlexTakeAPic_Ver2.dll
